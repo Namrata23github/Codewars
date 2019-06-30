@@ -1,0 +1,6 @@
+
+vsquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(—õÏºýÿÿÿÿ8½¾šÅ¬.
+Ksquid:S1172
+"(Remove this unused method parameter "n".(—õÏºýÿÿÿÿ8Ë¤˜Å¬.
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ÄÑÁ®8Ë¤˜Å¬.

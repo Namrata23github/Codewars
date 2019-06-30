@@ -1,4 +1,4 @@
-package com.company.Fundamentals;
+package com.company.fundamentals;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,8 +13,7 @@ public class Fundamental {
 
   public static int findSmallestInt(int[] args) {
     List<Integer> a = Arrays.stream(args).boxed().collect(Collectors.toList());
-    Integer v = a.stream().min(Integer::compare).get();
-    return v;
+    return a.stream().min(Integer::compare).get();
   }
 
 }
