@@ -1,17 +1,12 @@
 
-gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
-gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ªÈ³—ûÿÿÿÿ
-bsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(…ÿ®Ø
-=squid:S14815"&Remove this unused "a" local variable.(›µ¾•
-Lsquid:S18545"5Remove this useless assignment to local variable "a".(›µ¾•
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÝÊ ¾øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(·îÑ©úÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Ù€–úÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÆÜÖ
-bsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ï ™ø
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†ù¸üÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õã´
-gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‹€·þÿÿÿÿ8Ÿ‘ßûÝ.
+I
+java:S1602B",Remove useless curly braces around statement(‚šëÅ8Ô—æâ.
 [
-squid:S1069"9Replace this use of System.out or System.err by a logger.(à¿“âýÿÿÿÿ8ú¾¥Å¬.
+java:S49734"9Use the "equals" method if value comparison was intended.(ûóýøÿÿÿÿ8²ßïåâ.
+H
+java:S1172)"+Remove this unused method parameter "args".(Î½ºð8æ£® ã.
+I
+java:S1612B",Replace this lambda with a method reference.(‚šëÅ8ð¸æâ.
+N
+java:S16021",Remove useless curly braces around statement(ª÷‚ºýÿÿÿÿ8©‰îåâ.

@@ -1,0 +1,25 @@
+
+S
+java:S14814"1Remove this unused "listIterator" local variable.(…ŒÅÿùÿÿÿÿ8¼®¸šä.
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8˜‡“šä.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË8È«â–ä.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË8È«â–ä.
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ïÀ§šä.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾çÑ£8È«â–ä.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ8È«â–ä.
+’
+java:S1319"uThe type of the "_neighbors" object should be an interface such as "List" rather than the implementation "ArrayList".(™ ƒ8È«â–ä.
+l
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8È«â–ä.
+r
+java:S1104"UMake neighbors a static final constant or non-public and provide accessors if needed.(«³›æ8È«â–ä.
+b
+java:S18544"@Remove this useless assignment to local variable "listIterator".(…ŒÅÿùÿÿÿÿ8¼®¸šä.
+Q
+java:S37404"/Provide the parametrized type for this generic.(…ŒÅÿùÿÿÿÿ8¼®¸šä.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛÀ¼8È«â–ä.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ8È«â–ä.

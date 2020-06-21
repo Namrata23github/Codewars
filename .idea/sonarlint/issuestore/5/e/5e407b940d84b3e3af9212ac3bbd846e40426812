@@ -1,0 +1,38 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¹˜úÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ
+m	java:S127I"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯
+L
+java:S1994E"6Move the update of "j" into this loop's update clause.(ƒ¶ßâ
+V	java:S125t"<This block of commented-out lines of code should be removed.(—²Ï½üÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(½µÆÔûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(‘Üã«
+h	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü²áêøÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¸’èÅúÿÿÿÿ
+`
+java:S1192d"JDefine a constant instead of duplicating this literal "Cambridge" 4 times.(ı…ÿ‡
+V	java:S125z"<This block of commented-out lines of code should be removed.(¸ı·íûÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ
+T
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(ËÁü
+<
+java:S1168"&Return an empty array instead of null.(¥¹ï
+k
+java:S1149/"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(„Œá¦
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÒëÍüúÿÿÿÿ
+Y
+java:S1155<">Use isEmpty() to check whether the collection is empty or not.(í•ÇŸùÿÿÿÿ
+g
+java:S4276^"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(ù¦¢
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "a".(„Œá¦
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¸ı·íûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÒëÍüúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿùœù
+O
+java:S1612“",Replace this lambda with a method reference.(È¥ßÙøÿÿÿÿ8®…ñÀå.

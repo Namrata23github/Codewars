@@ -1,0 +1,22 @@
+
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8½ø¬Åã.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¹ÜÄã.
+X
+java:S1854"6Remove this useless assignment to local variable "td".(Òà³ûÿÿÿÿ8´è™Æã.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ôûàµüÿÿÿÿ8Ğ™üÅã.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ô’Ñûşÿÿÿÿ8´è™Æã.
+t	java:S127/"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡ŠìÕ8´è™Æã.
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ó³ÌÄã.
+I
+java:S1481"'Remove this unused "td" local variable.(Òà³ûÿÿÿÿ8´è™Æã.
+U
+java:S1197K"8Move the array designator from the variable to the type.(Ø±Ãÿ8¥¹›Æã.
+[
+java:S49735"9Use the "equals" method if value comparison was intended.(ı¢­¬üÿÿÿÿ8´è™Æã.
+J
+java:S1172"(Remove this unused method parameter "k".(Ôûàµüÿÿÿÿ8¨øÂÅã.

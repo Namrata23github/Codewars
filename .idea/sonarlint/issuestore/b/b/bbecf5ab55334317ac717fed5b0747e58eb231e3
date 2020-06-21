@@ -1,0 +1,19 @@
+
+D
+java:S1481")Remove this unused "temp" local variable.(´Âöìúÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ü¯ş½şÿÿÿÿ
+g
+java:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(ë€®»ÿÿÿÿÿ
+U
+java:S18540":Remove this useless assignment to local variable "result".(‡Ş‰Ôûÿÿÿÿ
+F
+java:S14810"+Remove this unused "result" local variable.(‡Ş‰Ôûÿÿÿÿ
+‚
+java:S1130!"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ò°Íıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¹˜úÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "temp".(´Âöìúÿÿÿÿ
+Y
+java:S2583"DChange this condition so that it does not always evaluate to "false"(‚‡I

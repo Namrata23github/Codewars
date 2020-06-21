@@ -1,0 +1,18 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îúê¯
+]
+java:S1854"@Remove this useless assignment to local variable "canBeDivided".(¯şîà8§ÿ¡Òå.
+H
+java:S1481"&Remove this unused "l" local variable.(’˜ Şøÿÿÿÿ8‡—Òå.
+_
+java:S1854"=Remove this useless assignment to local variable "substring".(õô®íûÿÿÿÿ8Ê¢¼Òå.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­–³:
+N
+java:S1481	"1Remove this unused "canBeDivided" local variable.(´Ø­8°³¡Òå.
+W
+java:S1854"5Remove this useless assignment to local variable "l".(’˜ Şøÿÿÿÿ8‡—Òå.
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8ºÛºÒå.
+I
+java:S1481(",Remove this unused "pattern" local variable.(ÂÒ¹Á8‡—Òå.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(À„öœøÿÿÿÿ8ÔÜÒå.

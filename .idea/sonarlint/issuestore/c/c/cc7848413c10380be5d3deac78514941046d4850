@@ -1,0 +1,6 @@
+
+N
+java:S1602",Remove useless curly braces around statement(Áë×¸şÿÿÿÿ8î¢é§ç.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ËİÑŠüÿÿÿÿ8ææ§ç.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾çÑ£
